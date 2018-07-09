@@ -1,0 +1,27 @@
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\bin\Debug\SignInSystem.exe.config
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\bin\Debug\SignInSystem.exe
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\bin\Debug\SignInSystem.pdb
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.Form1.resources
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.Properties.Resources.resources
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.csproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.exe
+c:\users\joshua\documents\visual studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.pdb
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\SignInSystem\SignInSystem\bin\Debug\SignInSystem.exe.manifest
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\SignInSystem\SignInSystem\bin\Debug\SignInSystem.application
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.exe.manifest
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\SignInSystem\SignInSystem\obj\Debug\SignInSystem.application
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.csprojAssemblyReference.cache
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.Form1.resources
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.Properties.Resources.resources
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.csproj.GenerateResource.cache
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.csproj.CoreCompileInputs.cache
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.exe
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.pdb
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\bin\Debug\SignInSystem.exe.config
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\bin\Debug\SignInSystem.exe.manifest
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\bin\Debug\SignInSystem.application
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\bin\Debug\SignInSystem.exe
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\bin\Debug\SignInSystem.pdb
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.exe.manifest
+E:\Stuff\SignInSystem\SignInSystem\SignInSystem\obj\Debug\SignInSystem.application
